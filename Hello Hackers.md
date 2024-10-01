@@ -2,7 +2,7 @@
 First module to be attempted from pwn.college and has two challenges.
 
 # Intro To Commands
-Just includes to user to invoke a command `hello` in order to recieve the flag.
+Just includes the user to invoke a command `hello` in order to recieve the flag.
 
 After opening the terminal typing in `hello` and pressing the `enter key` gives the flag.
 
