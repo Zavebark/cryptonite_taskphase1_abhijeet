@@ -4,7 +4,7 @@ First module to be attempted from pwn.college and has two challenges.
 # Intro To Commands
 Just includes the user to invoke a command `hello` in order to recieve the flag.
 
-After opening the terminal typing in `hello` and pressing the `enter key` gives the flag.
+After opening the terminal typing in `hello` and pressing the `enterkey` gives the flag.
 
 The flag is `pwn.college{wqyVVGuzeqalL8xntu6CFMM0z3W.ddjNyUDLzkDN0czW}`.
 
